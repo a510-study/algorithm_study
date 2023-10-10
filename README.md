@@ -30,11 +30,29 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/limzzum"><img src="https://avatars.githubusercontent.com/limzzum" width="130px;" alt=""></a></td>
-  </tr>
+     <td align="center"><a href="https://github.com/jiwon07"><img src="https://avatars.githubusercontent.com/jiwon07" width="130px;" alt=""></a></td>
+     <td align="center"><a href="https://github.com/jkjongwon"><img src="https://avatars.githubusercontent.com/jkjongwon" width="130px;" alt=""></a></td>
+     <td align="center"><a href="https://github.com/pH-Saem"><img src="https://avatars.githubusercontent.com/pH-Saem" width="130px;" alt=""></a></td>
+     <td align="center"><a href="https://github.com/pinegreen83"><img src="https://avatars.githubusercontent.com/pinegreen83" width="130px;" alt=""></a></td>
+     <td align="center"><a href="https://github.com/suchshin"><img src="https://avatars.githubusercontent.com/suchshin" width="130px;" alt=""></a></td>
+
+ </tr>
   <tr>
     <td align="center"><a href="https://github.com/limzzum"><b>limzzum</b></a></td>
+       <td align="center"><a href="https://github.com/jiwon07"><b>jiwon07</b></a></td>
+       <td align="center"><a href="https://github.com/jkjongwon"><b>jkjongwon</b></a></td>
+    <td align="center"><a href="https://github.com/pH-Saem"><b>pH-Saem</b></a></td>
+    <td align="center"><a href="https://github.com/pinegreen83"><b>pinegreen83</b></a></td>
+    <td align="center"><a href="https://github.com/suchshin"><b>suchshin</b></a></td>
+
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+
   </tr> 
 </table>
